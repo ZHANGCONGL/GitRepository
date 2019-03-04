@@ -1,4 +1,8 @@
 Git test one
 //Git change one
 //Git change two
+<<<<<<< HEAD
 //master修改
+=======
+//Git合并
+>>>>>>> slave2
